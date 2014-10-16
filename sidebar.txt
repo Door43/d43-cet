@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cet:home|Door43 (cet)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cet|d43-cet repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cet/archive/master.zip|d43-cet.zip]]
+
+**Recent Changes**
+{{changes>ns = cet}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cet|Ethnologue data]]
+
